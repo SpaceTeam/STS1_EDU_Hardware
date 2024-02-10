@@ -1,8 +1,0 @@
-(fp_lib_table
-  (lib (name "spaceteam")(type "KiCad")(uri "${KIPRJMOD}/STS1_PCB_LIBRARIES/SpaceteamLib/spaceteam.pretty")(options "")(descr ""))
-  (lib (name "STS")(type "KiCad")(uri "${KIPRJMOD}/STS1_PCB_LIBRARIES/STSLib/STS.pretty")(options "")(descr ""))
-  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/stefa/OneDrive/TU_SpaceTeam/STS1/EDU_V_1_5/STS1_EDU/STS1_EDU/EDULib/54548-2271/KiCad")(options "")(descr ""))
-  (lib (name "54548-2271")(type "Legacy")(uri "C:/Users/stefa/OneDrive/TU_SpaceTeam/STS1/EDU_V_1_5/STS1_EDU/STS1_EDU/EDULib/54548-2271/KiCad/54548-2271.mod")(options "")(descr ""))
-  (lib (name "STS_Package_DFN_QFN")(type "KiCad")(uri "C:/Users/stefa/OneDrive/TU_SpaceTeam/STS1/STS1_PCB_LIBRARIES-master(2)/STS1_PCB_LIBRARIES-master/footprint/STS_Package_DFN_QFN.pretty")(options "")(descr ""))
-  (lib (name "STS_Logo")(type "KiCad")(uri "C:/Users/stefa/OneDrive/TU_SpaceTeam/STS1/STS1_PCB_LIBRARIES-master(2)/STS1_PCB_LIBRARIES-master/footprint/STS_Logo.pretty")(options "")(descr ""))
-)
