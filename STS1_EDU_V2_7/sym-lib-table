@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "STS-con")(type "Legacy")(uri "${KIPRJMOD}/STS1_PCB_LIBRARIES/STSLib/STS-con.lib")(options "")(descr ""))
+)
